@@ -1,0 +1,9 @@
+package aws
+package brew
+package https://github.com/edc/bass
+package https://github.com/fabioantunes/fish-nvm
+package https://github.com/jhillyerd/plugin-git
+package wd
+theme agnoster
+theme bobthefish
+theme default
